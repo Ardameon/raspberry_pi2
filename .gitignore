@@ -1,3 +1,5 @@
 barre_metal_pi.*
 kernel.img
 kernel.elf
+*.asm
+*.nm
